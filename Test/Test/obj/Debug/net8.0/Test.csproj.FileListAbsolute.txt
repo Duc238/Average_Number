@@ -1,0 +1,14 @@
+E:\Lập trình\Học C++\Test\Test\bin\Debug\net8.0\Test.exe
+E:\Lập trình\Học C++\Test\Test\bin\Debug\net8.0\Test.deps.json
+E:\Lập trình\Học C++\Test\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+E:\Lập trình\Học C++\Test\Test\bin\Debug\net8.0\Test.dll
+E:\Lập trình\Học C++\Test\Test\bin\Debug\net8.0\Test.pdb
+E:\Lập trình\Học C++\Test\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình\Học C++\Test\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+E:\Lập trình\Học C++\Test\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+E:\Lập trình\Học C++\Test\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+E:\Lập trình\Học C++\Test\Test\obj\Debug\net8.0\Test.dll
+E:\Lập trình\Học C++\Test\Test\obj\Debug\net8.0\refint\Test.dll
+E:\Lập trình\Học C++\Test\Test\obj\Debug\net8.0\Test.pdb
+E:\Lập trình\Học C++\Test\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+E:\Lập trình\Học C++\Test\Test\obj\Debug\net8.0\ref\Test.dll
